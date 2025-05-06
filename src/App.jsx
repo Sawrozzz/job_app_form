@@ -1,5 +1,4 @@
 import React from 'react'
-import ApplicationForm from './components/ApplicationForm'
 import Form from './components/Form'
 
 const App = () => {
